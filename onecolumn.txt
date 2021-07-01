@@ -1,0 +1,103 @@
+M1BScarborough(Malvern / Rouge),M1B,Scarborough(
+M1CScarborough(Rouge Hill / Port Union / Highland Creek),M1C,Scarborough(
+M1EScarborough(Guildwood / Morningside / West Hill),M1E,Scarborough(
+M1GScarborough(Woburn),M1G,Scarborough(
+M1HScarborough(Cedarbrae),M1H,Scarborough(
+M1JScarborough(Scarborough Village),M1J,Scarborough(
+M1KScarborough(Kennedy Park / Ionview / East Birchmount Park),M1K,Scarborough(
+M1LScarborough(Golden Mile / Clairlea / Oakridge),M1L,Scarborough(
+M1MScarborough(Cliffside / Cliffcrest / Scarborough Village West),M1M,Scarborough(
+M1NScarborough(Birch Cliff / Cliffside West),M1N,Scarborough(
+M1PScarborough(Dorset Park / Wexford Heights / Scarborough Town Centre),M1P,Scarborough(
+M1RScarborough(Wexford / Maryvale),M1R,Scarborough(
+M1SScarborough(Agincourt),M1S,Scarborough(
+M1TScarborough(Clarks Corners / Tam O'Shanter / Sullivan),M1T,Scarborough(
+M1VScarborough(Milliken / Agincourt North / Steeles East / L'Amoreaux East),M1V,Scarborough(
+M1WScarborough(Steeles West / L'Amoreaux West),M1W,Scarborough(
+M1XScarborough(Upper Rouge),M1X,Scarborough(
+M2HNorth York(Hillcrest Village),M2H,North York(H
+M2JNorth York(Fairview / Henry Farm / Oriole),M2J,North York(F
+M2KNorth York(Bayview Village),M2K,North York(B
+M2LNorth York(York Mills / Silver Hills),M2L,North York(Y
+M2MNorth York(Willowdale / Newtonbrook),M2M,North York(W
+M2NNorth York(Willowdale)South,M2N,North York(W
+M2PNorth York(York Mills West),M2P,North York(Y
+M2RNorth York(Willowdale)West,M2R,North York(W
+M3ANorth York(Parkwoods),M3A,North York(P
+M3BNorth York(Don Mills)North,M3B,North York(D
+M3CNorth York(Don Mills)South(Flemingdon Park),M3C,North York(D
+M3HNorth York(Bathurst Manor / Wilson Heights / Downsview North),M3H,North York(B
+M3JNorth York(Northwood Park / York University),M3J,North York(N
+M3KNorth York(Downsview)East (CFB Toronto),M3K,North York(D
+M3LNorth York(Downsview)West,M3L,North York(D
+M3MNorth York(Downsview)Central,M3M,North York(D
+M3NNorth York(Downsview)Northwest,M3N,North York(D
+M4ANorth York(Victoria Village),M4A,North York(V
+M4BEast York(Parkview Hill / Woodbine Gardens),M4B,East York(Pa
+M4CEast York(Woodbine Heights),M4C,East York(Wo
+M4EEast Toronto(The Beaches),M4E,East Toronto
+M4GEast York(Leaside),M4G,East York(Le
+M4HEast York(Thorncliffe Park),M4H,East York(Th
+M4JEast YorkEast Toronto(The Danforth East),M4J,East YorkEas
+M4KEast Toronto(The Danforth West / Riverdale),M4K,East Toronto
+M4LEast Toronto(India Bazaar / The Beaches West),M4L,East Toronto
+M4MEast Toronto(Studio District),M4M,East Toronto
+M4NCentral Toronto(Lawrence Park),M4N,Central Toro
+M4PCentral Toronto(Davisville North),M4P,Central Toro
+M4RCentral Toronto(North Toronto West),M4R,Central Toro
+M4SCentral Toronto(Davisville),M4S,Central Toro
+M4TCentral Toronto(Moore Park / Summerhill East),M4T,Central Toro
+M4VCentral Toronto(Summerhill West / Rathnelly / South Hill / Forest Hill SE / Deer Park),M4V,Central Toro
+M4WDowntown Toronto(Rosedale),M4W,Downtown Tor
+M4XDowntown Toronto(St. James Town / Cabbagetown),M4X,Downtown Tor
+M4YDowntown Toronto(Church and Wellesley),M4Y,Downtown Tor
+M5ADowntown Toronto(Regent Park / Harbourfront),M5A,Downtown Tor
+"M5BDowntown Toronto(Garden District, Ryerson)",M5B,Downtown Tor
+M5CDowntown Toronto(St. James Town),M5C,Downtown Tor
+M5EDowntown Toronto(Berczy Park),M5E,Downtown Tor
+M5GDowntown Toronto(Central Bay Street),M5G,Downtown Tor
+M5HDowntown Toronto(Richmond / Adelaide / King),M5H,Downtown Tor
+M5JDowntown Toronto(Harbourfront East / Union Station / Toronto Islands),M5J,Downtown Tor
+M5KDowntown Toronto(Toronto Dominion Centre / Design Exchange),M5K,Downtown Tor
+M5LDowntown Toronto(Commerce Court / Victoria Hotel),M5L,Downtown Tor
+M5MNorth York(Bedford Park / Lawrence Manor East),M5M,North York(B
+M5NCentral Toronto(Roselawn),M5N,Central Toro
+M5PCentral Toronto(Forest Hill North & West),M5P,Central Toro
+M5RCentral Toronto(The Annex / North Midtown / Yorkville),M5R,Central Toro
+M5SDowntown Toronto(University of Toronto / Harbord),M5S,Downtown Tor
+M5TDowntown Toronto(Kensington Market / Chinatown / Grange Park),M5T,Downtown Tor
+M5VDowntown Toronto(CN Tower / King and Spadina / Railway Lands / Harbourfront West / Bathurst Quay / South Niagara / Island airport),M5V,Downtown Tor
+M5WDowntown TorontoStn A PO Boxes25 The Esplanade(Enclave of M5E),M5W,Downtown Tor
+M5XDowntown Toronto(First Canadian Place / Underground city),M5X,Downtown Tor
+M6ANorth York(Lawrence Manor / Lawrence Heights),M6A,North York(L
+M6BNorth York(Glencairn),M6B,North York(G
+M6CYork(Humewood-Cedarvale),M6C,York(Humewoo
+M6EYork(Caledonia-Fairbanks),M6E,York(Caledon
+M6GDowntown Toronto(Christie),M6G,Downtown Tor
+M6HWest Toronto(Dufferin / Dovercourt Village),M6H,West Toronto
+M6JWest Toronto(Little Portugal / Trinity),M6J,West Toronto
+M6KWest Toronto(Brockton / Parkdale Village / Exhibition Place),M6K,West Toronto
+M6LNorth York(North Park / Maple Leaf Park / Upwood Park),M6L,North York(N
+M6MYork(Del Ray / Mount Dennis / Keelsdale and Silverthorn),M6M,York(Del Ray
+M6NYork(Runnymede / The Junction North),M6N,York(Runnyme
+M6PWest Toronto(High Park / The Junction South),M6P,West Toronto
+M6RWest Toronto(Parkdale / Roncesvalles),M6R,West Toronto
+M6SWest Toronto(Runnymede / Swansea),M6S,West Toronto
+M7AQueen's Park(Ontario Provincial Government),M7A,Queen's Park
+M7RMississaugaCanada Post Gateway Processing Centre(Enclave of L4W),M7R,MississaugaC
+M7YEast TorontoBusiness reply mail Processing Centre969 Eastern(Enclave of M4L),M7Y,East Toronto
+M8VEtobicoke(New Toronto / Mimico South / Humber Bay Shores),M8V,Etobicoke(Ne
+M8WEtobicoke(Alderwood / Long Branch),M8W,Etobicoke(Al
+M8XEtobicoke(The Kingsway / Montgomery Road / Old Mill North),M8X,Etobicoke(Th
+M8YEtobicoke(Old Mill South / King's Mill Park / Sunnylea / Humber Bay / Mimico NE / The Queensway East / Royal York South East / Kingsway Park South East),M8Y,Etobicoke(Ol
+M8ZEtobicoke(Mimico NW / The Queensway West / South of Bloor / Kingsway Park South West / Royal York South West),M8Z,Etobicoke(Mi
+M9AEtobicoke(Islington Avenue),M9A,Etobicoke(Is
+M9BEtobicoke(West Deane Park / Princess Gardens / Martin Grove / Islington / Cloverdale),M9B,Etobicoke(We
+M9CEtobicoke(Eringate / Bloordale Gardens / Old Burnhamthorpe / Markland Wood),M9C,Etobicoke(Er
+M9LNorth York(Humber Summit),M9L,North York(H
+M9MNorth York(Humberlea / Emery),M9M,North York(H
+M9NYork(Weston),M9N,York(Weston)
+M9PEtobicoke(Westmount),M9P,Etobicoke(We
+M9REtobicoke(Kingsview Village / St. Phillips / Martin Grove Gardens / Richview Gardens),M9R,Etobicoke(Ki
+M9VEtobicoke(South Steeles / Silverstone / Humbergate / Jamestown / Mount Olive / Beaumond Heights / Thistletown / Albion Gardens),M9V,Etobicoke(So
+M9WEtobicokeNorthwest(Clairville / Humberwood / Woodbine Downs / West Humber / Kipling Heights / Rexdale / Elms / Tandridge / Old Rexdale),M9W,EtobicokeNor
